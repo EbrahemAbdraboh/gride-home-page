@@ -2,7 +2,7 @@
   "name": "gride-home-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ebrahemabdraboh.github.io/gride-home-page"
+  "homepage": "http://ebrahemabdraboh.github.io/gride-home-page",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
